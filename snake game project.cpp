@@ -9,6 +9,7 @@ Nama Anggota Kelompok :
 2. Ronny Chalvin Pamungkas		(M0521067)
 3. Sekar Gesti Amalia Utami		(M0521071)
 4. Tulus Toto Raharjo			(M0521078)
+
 */
 
 #include <SFML/Graphics.hpp>
